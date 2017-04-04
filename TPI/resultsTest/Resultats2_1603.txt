@@ -1,0 +1,12 @@
+@{Access=System.Security.AccessControl.AuthorizationRuleCollection}
+@{Access=System.Security.AccessControl.AuthorizationRuleCollection}
+@{Access=System.Security.AccessControl.AuthorizationRuleCollection}
+@{Access=System.Security.AccessControl.AuthorizationRuleCollection}
+@{Access=System.Security.AccessControl.AuthorizationRuleCollection}
+@{Access=System.Security.AccessControl.AuthorizationRuleCollection}
+@{Access=System.Security.AccessControl.AuthorizationRuleCollection}
+@{Access=System.Security.AccessControl.AuthorizationRuleCollection}
+@{Access=System.Security.AccessControl.AuthorizationRuleCollection}
+@{Access=System.Security.AccessControl.AuthorizationRuleCollection}
+@{Access=System.Security.AccessControl.AuthorizationRuleCollection}
+@{Access=System.Security.AccessControl.AuthorizationRuleCollection}
